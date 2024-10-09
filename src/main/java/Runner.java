@@ -7,6 +7,7 @@ public class Runner {
         System.out.println("Versiyon 3");
         System.out.println("Versiyon 4");
         //remote değişiklik
+        //remote değişiklik 2
 
     }
 }
